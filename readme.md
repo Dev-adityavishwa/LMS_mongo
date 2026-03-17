@@ -64,3 +64,51 @@ where  dependency express use for both the dev + user
 to restore package.lock.json and node module ---> node i 
 
 
+npm i mangoose -> to install mangoose 
+
+
+npm i mongodb
+
+the cluster db password (from connection string )
+mongodb+srv://Aditya_db_user:<db_password>@cluster0.yyeus2y.mongodb.net/?appName=Cluster0
+Adityadb
+
+
+.env > contains senstive info  
+> i dont want to upload my db connection string to the git hub 
+
+npm i dotenv > 
+
+making a db connection file
+
+
+16 march 
+
+
+## user collection
+
+Doc1:{
+   "_id" : ObjectID('sadf6151')
+   "name" : ..
+}
+
+## MVC architecture 
+
+Model 
+View
+Controller
+
+## DTO (data transfer object )
+
+
+## Controllers
+
+
+
+
+
+
+
+
+
+
